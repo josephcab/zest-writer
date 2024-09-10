@@ -15,12 +15,12 @@ Windows 64 bits
 `setup 64 bits`_
 ======================
 
-.. _setup 64 bits: https://bintray.com/zest-writer/windows-x64/setup/_latestVersion#files
+.. _setup 64 bits: https://github.com/firm1/zest-writer/releases/latest
 
 Os X
 ####
 
-Téléchargez la dernière version de Zest Writer via `ce lien <https://bintray.com/zest-writer/dmg/zest-writer/_latestVersion#files>`_, puis installez le fichier dmg.
+Téléchargez la dernière version de Zest Writer via `ce lien <https://github.com/firm1/zest-writer/releases/latest>`_, puis installez le fichier dmg.
 
 Linux
 #####
